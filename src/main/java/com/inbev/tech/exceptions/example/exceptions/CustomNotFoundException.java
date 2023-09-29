@@ -1,4 +1,4 @@
-package com.inbev.tech.exceptions;
+package com.inbev.tech.exceptions.example.exceptions;
 
 public class CustomNotFoundException extends RuntimeException{
 

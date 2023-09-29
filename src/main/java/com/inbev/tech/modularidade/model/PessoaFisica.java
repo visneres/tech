@@ -1,4 +1,6 @@
-package com.inbev.tech.model;
+package com.inbev.tech.modularidade.model;
+
+import com.inbev.tech.modularidade.model.Pessoa;
 
 public class PessoaFisica extends Pessoa {
 

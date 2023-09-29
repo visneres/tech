@@ -1,6 +1,6 @@
-package com.inbev.tech.rest;
+package com.inbev.tech.exceptions.example.rest;
 
-import com.inbev.tech.exceptions.CustomNotFoundException;
+import com.inbev.tech.exceptions.example.exceptions.CustomNotFoundException;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

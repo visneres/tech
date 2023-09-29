@@ -1,6 +1,6 @@
-package com.inbev.tech.exceptions;
+package com.inbev.tech.exceptions.example.exceptions;
 
-import com.inbev.tech.exceptions.CustomNotFoundException;
+import com.inbev.tech.exceptions.example.exceptions.CustomNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;

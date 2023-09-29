@@ -1,4 +1,4 @@
-package com.inbev.tech.model;
+package com.inbev.tech.modularidade.model;
 
  public class Pessoa {
 

@@ -1,7 +1,7 @@
-package com.inbev.tech.repository;
+package com.inbev.tech.modularidade.repository;
 
 
-import com.inbev.tech.model.Product;
+import com.inbev.tech.modularidade.model.Product;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 public interface ProductRepository extends MongoRepository<Product, String>{

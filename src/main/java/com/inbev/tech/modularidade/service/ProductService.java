@@ -1,7 +1,7 @@
-package com.inbev.tech.service;
+package com.inbev.tech.modularidade.service;
 
-import com.inbev.tech.model.Product;
-import com.inbev.tech.repository.ProductRepository;
+import com.inbev.tech.modularidade.model.Product;
+import com.inbev.tech.modularidade.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 
 public class ProductService {
